@@ -11,7 +11,6 @@ Backend and data engineer in Cairo. I build APIs and data systems with Node.js, 
 
 ## Currently
 
-- Learning Docker, CI/CD and data pipelines.
 - Open to junior backend and data engineering roles.
 
 ## Contact
