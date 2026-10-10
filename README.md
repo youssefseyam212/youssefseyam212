@@ -1,16 +1,20 @@
-## Hi there 👋
+# Youssef Seyam
 
-<!--
-**youssefseyam212/youssefseyam212** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Backend and data engineer in Cairo. I build APIs and data systems with Node.js, NestJS, Python and SQL.
 
-Here are some ideas to get you started:
+## Best work
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- AutoGradeER: an AI grader for database diagrams that matched human graders at 0.92-0.95 correlation.
+- School management system for Aura School: a 20-module NestJS and MongoDB backend with 181 API endpoints, live in production. The code is private.
+- [youssefdb](https://github.com/youssefseyam212/youssefdb): a file-based NoSQL database engine published on npm.
+- Serverless Task Manager: AWS Lambda, API Gateway, Cognito, DynamoDB and S3.
+
+## Currently
+
+- Learning Docker, CI/CD and data pipelines.
+- Open to junior backend and data engineering roles.
+
+## Contact
+
+- LinkedIn: https://www.linkedin.com/in/youssef-seyam-697679265/
+- Email: youssefseyam911@gmail.com
