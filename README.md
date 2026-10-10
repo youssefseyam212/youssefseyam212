@@ -21,6 +21,12 @@ Backend and data engineer in Cairo. I build APIs and data systems with Node.js, 
 - 🗄️ [youssefdb](https://github.com/youssefseyam212/youssefdb): a file-based NoSQL database engine published on npm.
 - ☁️ Serverless Task Manager: AWS Lambda, API Gateway, Cognito, DynamoDB and S3.
 
+## 🌐 Live websites
+
+| Preview | Project name | Description | Link |
+| :---: | --- | --- | --- |
+| <img src="https://raw.githubusercontent.com/youssefseyam212/youssefseyam212/main/egyptian-japanese-logo.png" alt="Egyptian Japanese logo" width="60" /> | **Egyptian Japanese** | Website of The Egyptian Japanese Company for Import and Export. | [Website](https://youssefseyam212.github.io/egyptian-japanese-site/) |
+
 ## Connect with me
 
 - 🔗 LinkedIn: https://www.linkedin.com/in/youssef-seyam-697679265/
