@@ -26,7 +26,7 @@ Backend and data engineer in Cairo. I build APIs and data systems with Node.js, 
 | Preview | Project name | Description | Link |
 | :---: | --- | --- | --- |
 | <img src="https://raw.githubusercontent.com/youssefseyam212/youssefseyam212/main/egyptian-japanese-logo.png" alt="Egyptian Japanese logo" width="60" /> | **Egyptian Japanese** | Website of The Egyptian Japanese Company for Import and Export. | [Website](https://youssefseyam212.github.io/egyptian-japanese-site/) |
-| <img src="https://raw.githubusercontent.com/youssefseyam212/youssefseyam212/main/youssefdb-mark-512.png" alt="youssefdb logo" width="60" /> | **youssefdb** | A file-based NoSQL database engine for Node.js that I designed and built myself from scratch, published on npm. Includes an interactive demo where you run queries and watch the memory and bytes on disk change. | [npm](https://www.npmjs.com/package/youssefdb) · [Interactive demo](https://youssefseyam212.github.io/inside-youssefdb/) |
+| <img src="https://raw.githubusercontent.com/youssefseyam212/youssefseyam212/main/youssefdb-mark-512.png" alt="youssefdb logo" width="60" /> | **youssefdb** | A file-based NoSQL database engine for Node.js that I designed and built myself from scratch, published on npm.<br><br>**Inside youssefdb:** an interactive site that shows how youssefdb works inside. Run queries and watch the memory and the bytes on disk change. | [npm package](https://www.npmjs.com/package/youssefdb)<br><br>[Inside youssefdb](https://youssefseyam212.github.io/inside-youssefdb/) |
 
 ## Connect with me
 
